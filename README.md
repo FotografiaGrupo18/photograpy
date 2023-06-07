@@ -1,4 +1,4 @@
-Proyecto de Página Web de Fotografía
+<h2>Proyecto de Página Web de Fotografía</h2>
 Este proyecto consiste en el desarrollo de una página web dedicada a la fotografía, donde se exhiben imágenes cautivadoras capturadas por fotógrafos apasionados. La finalidad de este proyecto es brindar un espacio en línea para compartir y apreciar el arte visual a través de la lente.
 
 Características principales
