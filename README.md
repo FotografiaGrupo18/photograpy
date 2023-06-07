@@ -40,4 +40,4 @@ Este proyecto se distribuye bajo la licencia MIT. Si utilizas este proyecto, te 
 Si tienes alguna pregunta o consulta relacionada con este proyecto, no dudes en ponerte en contacto con [nombre de contacto] a través de [correo electrónico de contacto].
 
 <h3>Link del Sitio</h3>
-<a href="http://tpfotografia.infinityfreeapp.com/" _target="blank">Web Site</a>
+<a href="http://tpfotografia.infinityfreeapp.com/" target="_blank">Web Site</a>
